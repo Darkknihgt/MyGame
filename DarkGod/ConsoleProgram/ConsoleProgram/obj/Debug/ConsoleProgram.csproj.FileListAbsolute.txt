@@ -1,0 +1,7 @@
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\bin\Debug\ConsoleProgram.exe.config
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\bin\Debug\ConsoleProgram.exe
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\bin\Debug\ConsoleProgram.pdb
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\obj\Debug\ConsoleProgram.csprojAssemblyReference.cache
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\obj\Debug\ConsoleProgram.csproj.CoreCompileInputs.cache
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\obj\Debug\ConsoleProgram.exe
+D:\unitystudy\unitytest\DarkGod\ConsoleProgram\ConsoleProgram\obj\Debug\ConsoleProgram.pdb

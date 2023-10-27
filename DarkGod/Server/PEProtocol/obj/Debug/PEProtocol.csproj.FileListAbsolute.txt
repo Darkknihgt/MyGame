@@ -1,0 +1,9 @@
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\bin\Debug\PEProtocol.dll
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\bin\Debug\PEProtocol.pdb
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\bin\Debug\PESocket.dll
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CoreCompileInputs.cache
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.csproj.CopyComplete
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.dll
+D:\unitystudy\unitytest\DarkGod\Server\PEProtocol\obj\Debug\PEProtocol.pdb
+D:\unitystudy\unitytest\DarkGod\Client\Assets\Scripts\Net\PEProtocol.dll
+D:\unitystudy\unitytest\DarkGod\Client\Assets\Scripts\Net\PEProtocol.pdb
